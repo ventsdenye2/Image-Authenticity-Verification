@@ -5,5 +5,3 @@ img_AIdet/
 __pycache__/
 *.py[cod]
 
-# Training artifacts
-outputs/
