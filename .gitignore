@@ -4,4 +4,5 @@ img_AIdet/
 # Python/cache artifacts
 __pycache__/
 *.py[cod]
+.venv/
 
